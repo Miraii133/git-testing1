@@ -1,5 +1,6 @@
 console.log("hello world");
 
-function secondFunction() {
+function firstFunction() {
+  // works
   // ... accidentally deleted first function.
 }
