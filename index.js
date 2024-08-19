@@ -4,3 +4,6 @@ function firstFunction() {
   // works
   // ... accidentally deleted first function.
 }
+function secondFunction() {
+  // ... accidentally edited this
+}
